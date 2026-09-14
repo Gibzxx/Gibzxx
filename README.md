@@ -1,5 +1,4 @@
-## Hi there 👋
-
+![](https://komarev.com/ghpvc/?username=Gibzxx&abbreviated=true&color=6aaaa9&style=plastic-plastic&label=Ɛ=3
 <!--
 **Gibzxx/Gibzxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
